@@ -6,3 +6,4 @@ def array_with_two_elements
 [1,2]
 end
 
+my_first_element
